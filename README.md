@@ -13,7 +13,7 @@
 ## AT THE SIDE OF EACH SECTION IS THE PART WHERE SOME OF MY SOCIAL MEDIA LINKS ARE GIVEN IF YOU WISH TO FOLLOW ME...
 
 ## SITE DEPLOYED USING : [NETLIFY](https://www.netlify.com/)
-## SITE IS LIVE AT : https://swastik-portfolio.netlify.app/
+## SITE IS LIVE AT : https://swastik-portfolio-1.netlify.app/
 
 ## BUILD USING :
 - [SANITY](https://www.sanity.io/)
